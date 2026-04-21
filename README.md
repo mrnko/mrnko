@@ -1,13 +1,48 @@
-# Oleksii Myronenko CV | Frontend Developer
+## Oleksii Myronenko
 
-[![mrnko - oleksii-myronenko-cv](https://img.shields.io/static/v1?label=mrnko&message=oleksii-myronenko-cv&color=blue&logo=github)](https://github.com/mrnko/oleksii-myronenko-cv "Go to GitHub repo")
-[![stars - oleksii-myronenko-cv](https://img.shields.io/github/stars/mrnko/oleksii-myronenko-cv?style=social)](https://github.com/mrnko/oleksii-myronenko-cv)
-[![forks - oleksii-myronenko-cv](https://img.shields.io/github/forks/mrnko/oleksii-myronenko-cv?style=social)](https://github.com/mrnko/oleksii-myronenko-cv)
+Frontend Developer (HTML, CSS, JavaScript)
 
-Developed a personal CV website using HTML5, SCSS, and JavaScript. Built a responsive and semantic layout to present professional experience, skills, and projects in a structured and accessible way.
+Frontend Developer focused on building clean, responsive, and accessible web interfaces using HTML, CSS, and JavaScript. Strong emphasis on semantic markup, performance, and cross-browser compatibility.
 
-## Usage
+Experienced in turning UI/UX designs into functional layouts, working with modern frontend practices, and ensuring consistent user experience across devices.
 
-1. To work with this html5 starter template in a new project, clone all the contents of the repository using the command: `git clone https://github.com/mrnko/oleksii-myronenko-cv.git`
-2. While in the root folder of the project, run the command `npm i`, which will install all the dependencies in package.json.
-3. Enjoy the development of your new project 😀
+Comfortable working in team environments, following project requirements, and delivering maintainable and production-ready solutions. Continuously improving skills in frontend development and interface architecture.
+
+Goal-oriented developer aiming to create intuitive, efficient, and scalable user interfaces for real-world products, including experience in iGaming (betting and gaming) platforms.
+
+### Skills
+
+- HTML5 / CSS3 / SASS
+- Responsive Design, Flexbox, CSS Grid, BEM
+- JavaScript (ES6+)
+- Git, Webpack/Vite, npm
+
+### Professional Links
+
+- Portfolio: https://mrnko.com
+- GitHub: https://github.com/mrnko
+- LinkedIn: https://linkedin.com/in/oleksii-myronenko
+
+### Contact
+
+- Email: oleksiimrnko@gmail.com
+- Phone: +38 (050) 664 19 57
+
+### Professional Experience
+
+**Frontend Developer — Letim Consulting LLC**  
+2025–2026 | Atlanta, Georgia, United States  
+Developed responsive interfaces using HTML, CSS and JavaScript based on UI designs. Focused on iGaming web applications.
+
+**Frontend Developer — Freelance**  
+2022–2025 | Ukraine  
+Remote work
+
+**Co-founder / Operations & Logistics Manager — Self-employed**  
+2016–2022 | Slovyansk, Ukraine  
+Responsible for logistics, operations management, supplier coordination, and business development.
+
+### Languages
+
+- English — Intermediate (B1)
+- Ukrainian — Native
