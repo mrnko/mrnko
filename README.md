@@ -26,7 +26,6 @@ Goal-oriented developer aiming to create intuitive, efficient, and scalable user
 ### Contact
 
 - Email: oleksiimrnko@gmail.com
-- Phone: +38 (050) 664 19 57
 
 ### Professional Experience
 
