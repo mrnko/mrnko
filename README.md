@@ -25,7 +25,7 @@ Goal-oriented developer aiming to create intuitive, efficient, and scalable user
 
 ### Contact
 
-- Email: oleksiimrnko@gmail.com
+- Email: oleksii@mrnko.com
 
 ### Professional Experience
 
