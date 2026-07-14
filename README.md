@@ -5,7 +5,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Oleksii%20Myronenko&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%C2%B7%20Digital%20Expert%20%C2%B7%20SEO%20%26%20Digital%20Advertising&descAlignY=58&descAlign=50&descColor=dddddd"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Oleksii%20Myronenko&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Fullstack%20Developer%20%C2%B7%20Digital%20Expert%20%C2%B7%20SEO%20%26%20Digital%20Advertising&amp;descAlignY=58&amp;descAlign=50&amp;descColor=dddddd"
     alt="Oleksii Myronenko"
   />
 </p>
