@@ -2,8 +2,15 @@
   GitHub Profile README for https://github.com/mrnko
   Edit any text, project links, badges, or sections below.
 -->
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Oleksii%20Myronenko&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%C2%B7%20Digital%20Expert%20%C2%B7%20SEO%20%26%20Digital%20Advertising&descAlignY=58&descAlign=50&descColor=dddddd"
+    alt="Oleksii Myronenko"
+  />
+</p>
 
-<p align="right">
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=mrnko&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS"
     alt="Profile views"
@@ -49,14 +56,14 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|:---:|
-| [**Freecora**](https://freecora.com) | Free CRM for freelancers: clients, projects, tasks, finances and productivity tools | Laravel · Vue · MySQL |
-| [**mrnko.com**](https://mrnko.com) | Personal portfolio and digital services platform | Astro · TypeScript |
-| [**LiteDebounce**](https://github.com/mrnko/lite-debounce-js) | Lightweight dependency-free debounce utility with leading and trailing execution | JavaScript · Vite · Vitest |
-| [**Modern HTML5 Starter**](https://github.com/mrnko/modern-html5-starter-template) | Clean starter template for semantic, responsive and maintainable websites | HTML · SCSS · JavaScript |
-| [**VeloTor Ride**](https://github.com/mrnko/velotor-ride) | Telegram bot for cycling statistics, distances and weekly leaderboards | PHP · Telegram API |
-| [**CSS Normalize**](https://github.com/mrnko/css-normalize) | Minimal CSS normalization layer for predictable cross-browser rendering | CSS |
+| Project                                                                            | Description                                                                         |           Stack            |
+| ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | :------------------------: |
+| [**Freecora**](https://freecora.com)                                               | Free CRM for freelancers: clients, projects, tasks, finances and productivity tools |   Laravel · Vue · MySQL    |
+| [**mrnko.com**](https://mrnko.com)                                                 | Personal portfolio and digital services platform                                    |     Astro · TypeScript     |
+| [**LiteDebounce**](https://github.com/mrnko/lite-debounce-js)                      | Lightweight dependency-free debounce utility with leading and trailing execution    | JavaScript · Vite · Vitest |
+| [**Modern HTML5 Starter**](https://github.com/mrnko/modern-html5-starter-template) | Clean starter template for semantic, responsive and maintainable websites           |  HTML · SCSS · JavaScript  |
+| [**VeloTor Ride**](https://github.com/mrnko/velotor-ride)                          | Telegram bot for cycling statistics, distances and weekly leaderboards              |     PHP · Telegram API     |
+| [**CSS Normalize**](https://github.com/mrnko/css-normalize)                        | Minimal CSS normalization layer for predictable cross-browser rendering             |            CSS             |
 
 ## 🛠 Tech Stack
 
@@ -111,14 +118,14 @@ A compact CSS normalization layer for consistent behavior across modern browsers
 
 ## 💼 What I Build
 
-| Direction | Solutions |
-|---|---|
-| **Web Development** | Landing pages, corporate websites, web applications and custom platforms |
-| **E-commerce** | Online stores, catalogs, checkout flows and third-party integrations |
-| **SaaS & CRM** | Multi-workspace systems, dashboards, subscriptions and internal tools |
-| **Automation** | APIs, Telegram bots, lead processing and business workflow automation |
-| **Digital Growth** | Technical SEO, analytics, Google Ads, Meta Ads and conversion optimization |
-| **Game Development** | Incremental games, gameplay prototypes and Steam-oriented projects |
+| Direction            | Solutions                                                                  |
+| -------------------- | -------------------------------------------------------------------------- |
+| **Web Development**  | Landing pages, corporate websites, web applications and custom platforms   |
+| **E-commerce**       | Online stores, catalogs, checkout flows and third-party integrations       |
+| **SaaS & CRM**       | Multi-workspace systems, dashboards, subscriptions and internal tools      |
+| **Automation**       | APIs, Telegram bots, lead processing and business workflow automation      |
+| **Digital Growth**   | Technical SEO, analytics, Google Ads, Meta Ads and conversion optimization |
+| **Game Development** | Incremental games, gameplay prototypes and Steam-oriented projects         |
 
 ---
 
@@ -145,19 +152,6 @@ A compact CSS normalization layer for consistent behavior across modern browsers
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=mrnko&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    alt="Oleksii's GitHub stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnko&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    alt="Most used languages"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=mrnko&theme=github-dark-blue&hide_border=true"
     alt="GitHub contribution streak"
   />
@@ -168,15 +162,6 @@ A compact CSS normalization layer for consistent behavior across modern browsers
     src="https://github-readme-activity-graph.vercel.app/graph?username=mrnko&theme=github-compact&hide_border=true&area=true"
     alt="GitHub activity graph"
     width="100%"
-  />
-</p>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=mrnko&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
-    alt="GitHub trophies"
   />
 </p>
 
